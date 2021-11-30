@@ -3,5 +3,11 @@
     background-repeat: no-repeat;
     background-size: cover;
     background-position: center;
-    text-align: center;    
+    text-align: center;
+
+}
+.left-side-container{
+    position: -webkit-sticky; /* Safari */
+    position: sticky;
+    top: 0;
 }

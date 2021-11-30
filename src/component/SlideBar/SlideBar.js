@@ -11,7 +11,6 @@ const SlideBar = () => {
             ></Profile>
             <OthersSlideIteams>
             </OthersSlideIteams>
-
         </Box >
     );
 };

@@ -1,8 +1,6 @@
 import { Grid } from '@mui/material';
 import React from 'react';
 import Box from '@mui/material/Box';
-import { styled } from '@mui/material/styles';
-import Paper from '@mui/material/Paper';
 import SlideBar from '../SlideBar/SlideBar';
 import { Route, Routes } from 'react-router';
 import ContactMe from '../ContactMe/ContactMe';
