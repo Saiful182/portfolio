@@ -10,18 +10,13 @@ import Projects from '../Projects/Projects';
 import AboutMe from '../AboutMe/AboutMe';
 import './home.css'
 const Home = () => {
-    const Item = styled(Paper)(({ theme }) => ({
-        ...theme.typography.body2,
-        padding: theme.spacing(1),
-        textAlign: 'center',
-        color: theme.palette.text.secondary,
-    }));
+
 
     return (
         <Box className='full-container' sx={{
             flexGrow: 1
         }}>
-            <Grid container spacing={2}>
+            <Grid container >
                 <Grid item xs={12} sm={6} lg={4} md={4}>
                     <SlideBar ></SlideBar>
                 </Grid>

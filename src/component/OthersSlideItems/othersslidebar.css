@@ -1,0 +1,22 @@
+
+.link-container a{
+    display: block;
+    margin: 2px auto;
+    padding: 5px;
+
+    border-radius: 5px;
+    background-color: rgba(117, 185, 241, 0.11)
+}
+.link-container a:hover{
+    color: white;
+    background-color: rgb(56, 48, 133);
+}
+.icon-ancor-container a {
+    padding: 5px;
+    background-color: none;
+    display: inline;
+}
+.icon-ancor-container a:hover{
+    color:none;
+    background-color: none;
+}

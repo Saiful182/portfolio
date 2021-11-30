@@ -1,5 +1,6 @@
 import { Avatar, Typography } from '@mui/material';
 import React from 'react';
+import { Link } from 'react-router-dom';
 import ProfilePic from '../../Images/Profile.jpg';
 import './profile.css'
 const Profile = () => {
@@ -11,10 +12,10 @@ const Profile = () => {
                 sx={{ width: 200, height: 200, margin: 'auto', textAlign: 'center' }}
             />
 
-            <Typography sx={{
+            <Link style={{ textDecoration: 'none' }} to="/"> <Typography sx={{
                 margin: 2,
 
-            }} variant="h3">Md. Saiful Islam</Typography>
+            }} variant="h3">Md. Saiful Islam</Typography></Link>
             <Typography sx={{ margin: 'auto' }} variant="h5">Web Developer</Typography>
         </div>
     );
