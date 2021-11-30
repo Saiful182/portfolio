@@ -12,7 +12,7 @@ const Profile = () => {
                 sx={{ width: 200, height: 200, margin: 'auto', textAlign: 'center' }}
             />
 
-            <Link style={{ textDecoration: 'none' }} to="/"> <Typography sx={{
+            <Link style={{ textDecoration: 'none', cursor: 'pointer' }} to="/"> <Typography sx={{
                 margin: 2,
 
             }} variant="h3">Md. Saiful Islam</Typography></Link>

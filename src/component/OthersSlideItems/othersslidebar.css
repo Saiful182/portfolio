@@ -11,12 +11,15 @@
     color: white;
     background-color: rgb(56, 48, 133);
 }
-.icon-ancor-container a {
-    padding: 5px;
-    background-color: none;
+.icon-ancor-container a{
     display: inline;
+    color: black;
 }
 .icon-ancor-container a:hover{
-    color:none;
-    background-color: none;
+    
+    background-color: none !important
 }
+.contact-container{
+   
+}
+

@@ -8,8 +8,8 @@ const AboutMe = () => {
         <div className="whole-right-side" >
             <Box className="resume-container">
                 <Typography variant="h2">
-                    Hi, I am saiful, <Typography variant="h4">and i am a react web developer.Hare you can find my all information.Click Hare to to download my
-                        <Link to="" as={Button} > Resume</Link>
+                    Hi, I am saiful, <Typography variant="h4">and i am a web developer.Hare you can find my all information.Click Hare to to download my
+                        <Link style={{ textDecoration: 'none' }} to="" as={Button} > <Typography variant="h4">Resume</Typography></Link>
                     </Typography>
                 </Typography>
             </Box>

@@ -1,4 +1,7 @@
-
+.whole-right-side{
+    display: flex;
+    margin: auto;
+}
 .resume-container{
     margin: 50px 10px ;
     align-items: center;

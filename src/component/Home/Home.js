@@ -9,6 +9,7 @@ import ContactMe from '../ContactMe/ContactMe';
 import Projects from '../Projects/Projects';
 import AboutMe from '../AboutMe/AboutMe';
 import './home.css'
+import Education from '../Education/Education';
 const Home = () => {
 
 
@@ -16,7 +17,7 @@ const Home = () => {
         <Box className='full-container' sx={{
             flexGrow: 1
         }}>
-            <Grid container >
+            <Grid style={{ alignItems: 'center' }} container >
                 <Grid item xs={12} sm={6} lg={4} md={4}>
                     <SlideBar ></SlideBar>
                 </Grid>
@@ -26,9 +27,8 @@ const Home = () => {
                         <Route path="/" element={<AboutMe />} />
                         <Route path="contact" element={<ContactMe />} />
                         <Route path="projects" element={<Projects />} />
-                        <Route path="contact" element={<ContactMe />} />
-                        <Route path="contact" element={<ContactMe />} />
-                        <Route path="contact" element={<ContactMe />} />
+                        <Route path="education" element={<Education />} />
+
                     </Routes>
                 </Grid>
 
