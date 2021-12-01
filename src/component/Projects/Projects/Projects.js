@@ -16,7 +16,7 @@ const Projects = () => {
             "img1": "https://i.postimg.cc/7Ydgvkx2/classy-home-1.png",
             "img2": "https://i.postimg.cc/1XzpSRnp/class-home-3.png",
             "img3": "https://i.postimg.cc/K8TtxHzs/classy-home-2.png",
-            "img4": "https://i.postimg.cc/28V4X6fY/classy-hot-delas.png",
+            "img4": "https://i.postimg.cc/QCf3Pq58/classy-hot-delas.png",
             "img5": "https://i.postimg.cc/ZKMLTNL0/classy-selected-product.png",
             "img6": "https://i.postimg.cc/wjRQ3BW2/Cart.png"
         },
@@ -45,9 +45,9 @@ const Projects = () => {
             "server_site_link": "https://github.com/Saiful182/classy-each-store-server",
             "live_site": "https://classy-watch-store.web.app",
             "main_img": "https://i.postimg.cc/VkY5VfTg/hospita-head.png",
-            "img1": "https://i.postimg.cc/NjtRGxHs/hopital-2.png",
-            "img2": "https://i.postimg.cc/9X4dL02h/hospital-3.png",
-            "img3": "https://i.postimg.cc/65ndNPTb/hospital-4.png",
+            "img1": "https://i.postimg.cc/d06Z12md/hopital-2.png",
+            "img2": "https://i.postimg.cc/43shsLts/hospital-3.png",
+            "img3": "https://i.postimg.cc/50tYFXnr/hospital-4.png",
             "img4": "https://i.postimg.cc/xd08hxbm/hospital-6.png",
             "img5": "https://i.postimg.cc/TPC16Vr4/1.png",
             "img6": "https://i.postimg.cc/B6b6QjpQ/hoipital-1.png"
