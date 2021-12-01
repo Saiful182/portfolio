@@ -35,11 +35,11 @@ const DetailsProject = () => {
             "server_site_link": "https://github.com/Saiful182/Tour-internation-clientsite",
             "live_site": "https://tour-international-ltd.web.app/",
             "main_img": "https://i.postimg.cc/1z7gFkvH/tour-head.png",
-            "img1": "https://i.postimg.cc/SR0JTyLS/tour-1.png",
+            "img1": "https://i.postimg.cc/MHwMTckg/tour-1.png",
             "img2": "https://i.postimg.cc/4xXhRNDn/tour-3.png",
             "img3": "https://i.postimg.cc/9Xq9GkPX/tour-4.png",
             "img4": "https://i.postimg.cc/7ZXJHr49/tour-5.png",
-            "img5": "https://i.postimg.cc/1R6ggqPf/tour-2.png",
+            "img5": "https://i.postimg.cc/C54ZfFS5/tour-2.png",
             "img6": "https://i.postimg.cc/DykX5c5r/tour-6.png"
         },
         {
