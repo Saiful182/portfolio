@@ -24,6 +24,10 @@ const OthersSlideIteams = () => {
                     <Link style={style}
                         to="education"> Education</Link>
                     <Link style={style}
+                        to="blogs"> Blogs</Link>
+                    <Link style={style}
+                        to="skils"> Skills</Link>
+                    <Link style={style}
                         to="contact"> Contact Me</Link>
                 </Grid>
                 <Grid className="icon-ancor-container" xs={12}>

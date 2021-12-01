@@ -1,8 +1,6 @@
 
 import { Grid, Link, Typography } from '@mui/material';
 import React from 'react';
-import EmailIcon from '@mui/icons-material/Email';
-import CallIcon from '@mui/icons-material/Call';
 import { Box } from '@mui/system';
 import './contactme.css'
 const ContactMe = () => {

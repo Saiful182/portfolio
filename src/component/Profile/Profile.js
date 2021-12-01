@@ -16,7 +16,7 @@ const Profile = () => {
                 margin: 2,
 
             }} variant="h3">Md. Saiful Islam</Typography></Link>
-            <Typography sx={{ margin: 'auto' }} variant="h5">Web Developer</Typography>
+            <Typography variant="h5">Web Developer</Typography>
         </div>
     );
 };

@@ -1,5 +1,16 @@
 .avater-container{
     align-items: center;
     margin: auto;
-    padding: 40px 0;
+    padding: 10px 0;
+}
+
+@media screen and (max-width: 1144px) and (min-width: 900px){
+    .avater-container h3{
+        font-size: 35px;
+    }
+}
+@media screen and (max-width: 899px) and (min-width: 600px) {
+    .avater-container h3{
+        font-size: 30px;
+    }
 }

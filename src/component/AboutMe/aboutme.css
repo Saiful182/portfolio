@@ -1,6 +1,8 @@
 .whole-right-side{
     display: flex;
     margin: auto;
+    height: 450px;
+     margin-top: 150px 
 }
 .resume-container{
     margin: 50px 10px ;
