@@ -13,6 +13,8 @@ const Detail = (props) => {
             <Typography variant="p">{Discription}</Typography>
             <Typography style={{ margin: '10px' }} variant="h5">Technology</Typography>
             <Typography variant="p">{technologies}</Typography>
+
+            <Typography style={{ margin: '10px' }} variant="h5">Important Liks</Typography>
             <Grid style={{ justifyContent: ' center' }} container spacing={4} >
                 <Grid item sx={4}>
                     <Link style={{ textDecoration: 'none' }} href={client_site_link}>Client Site Link</Link>
