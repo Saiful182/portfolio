@@ -4,7 +4,7 @@ import React from 'react';
 
 
 const Detail = (props) => {
-    const { name, main_img, Discription, technologie, client_site_link, server_site_link, live_site, img1, img2, img3, img4, img5, img6 } = props.project;
+    const { name, main_img, Discription, technologies, client_site_link, server_site_link, live_site, img1, img2, img3, img4, img5, img6 } = props.project;
     return (
         <div>
             <Typography variant="h4">{name}</Typography>
@@ -12,7 +12,7 @@ const Detail = (props) => {
             <Typography style={{ margin: '10px' }} variant="h5">Description</Typography>
             <Typography variant="p">{Discription}</Typography>
             <Typography style={{ margin: '10px' }} variant="h5">Technology</Typography>
-            <Typography variant="p">{technologie}</Typography>
+            <Typography variant="p">{technologies}</Typography>
             <Grid style={{ justifyContent: ' center' }} container spacing={4} >
                 <Grid item sx={4}>
                     <Link style={{ textDecoration: 'none' }} href={client_site_link}>Client Site Link</Link>
