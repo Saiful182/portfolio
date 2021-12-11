@@ -47,9 +47,9 @@ const DetailsProject = () => {
             "name": "Peoples care hospital",
             "Discription": "Its a web site for hospital where user can take diffrent hoispital service and take apppontments from doctors.user have to login form take any appointment.No database used in this website.",
             "technologies": "html,css,Bootstrap, React, React Router Dom, React Bootstrap, Firebase, Netlify.",
-            "client_site_link": "https://github.com/Saiful182/Classy-Watch-Client-Site",
-            "server_site_link": "https://github.com/Saiful182/classy-each-store-server",
-            "live_site": "https://classy-watch-store.web.app",
+            "client_site_link": "https://github.com/Saiful182/peoples-care-hospital",
+
+            "live_site": "https://peoples-care-hospital.web.app/",
             "main_img": "https://i.postimg.cc/VkY5VfTg/hospita-head.png",
             "img1": "https://i.postimg.cc/d06Z12md/hopital-2.png",
             "img2": "https://i.postimg.cc/43shsLts/hospital-3.png",
